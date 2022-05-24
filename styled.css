@@ -1,0 +1,59 @@
+.btn.dropdown-toggle  {
+    width: 150px;
+    text-align:left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #027a26;
+}
+
+span.caret {
+    position: relative;
+    left: 10%;
+    top: 50%;
+}
+
+body{
+    background-color: #000000;
+    border-color: #027a26;
+}
+
+option{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+label {
+    padding-top:10px;
+    color: #28bd55;
+}
+
+.form-label {
+    padding-left:0px !important;
+}
+
+form {
+    padding-top: 10%;
+}
+
+.btnsearch {
+    background-color:  #027a26!important;
+}
+
+.btnsearch:hover {
+    background-color: #0cd347!important;
+}
+
+img.track {
+    border: 1px solid #027a26;
+}
+
+img {
+    height:300px;
+    width:300px;
+}
+
+
